@@ -1,10 +1,10 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 0.1.1
 
-## [0.1.0] - 2026-03-21
+- Standardize package metadata, badges, and CHANGELOG
 
-### Added
+## 0.1.0
 
 - `prettyMs()` — convert milliseconds to human-readable strings
 - `parseMs()` — parse human-readable duration strings back to milliseconds

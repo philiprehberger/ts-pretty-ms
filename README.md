@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/ts-pretty-ms/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-pretty-ms/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/pretty-ms)](https://www.npmjs.com/package/@philiprehberger/pretty-ms)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-pretty-ms)](LICENSE)
 
 Convert milliseconds to human-readable strings and back.
 
