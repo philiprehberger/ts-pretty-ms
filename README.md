@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-pretty-ms/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-pretty-ms/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/pretty-ms)](https://www.npmjs.com/package/@philiprehberger/pretty-ms)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-pretty-ms)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Convert milliseconds to human-readable strings and back.
 
