@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/pretty-ms",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert milliseconds to human-readable strings and back",
   "type": "module",
   "main": "./dist/index.cjs",
